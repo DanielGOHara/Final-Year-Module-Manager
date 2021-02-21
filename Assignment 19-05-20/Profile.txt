@@ -1,0 +1,16 @@
+
+ Course: Computer Science
+ P-Number: P2435725
+ Name: Daniel O'Hara
+ Email: daniel@hotmail.co.uk
+ Submission Date: 15-05-2020
+ Selected Module's: [CTEC3410 : Web Application Penetration Testing, CTEC3451 : Development Project, CTEC3904 : Functional Software Development, CTEC3905 : Front-End Web Development, CTEC3906 : Interaction Design, IMAT3423 : Systems Building: Methods, IMAT3613 : Data Mining]
+ Reserved Module's: [CTEC3605 : Multi-service Networks 1, CTEC3606 : Multi-service Networks 2, CTEC3902 : Rigorous Systems, IMAT3406 : Fuzzy Logic and Knowledge Based Systems]
+
+ Course: Software Engineering
+ P-Number: P2435725
+ Name: Daniel O'Hara
+ Email: daniel@hotmail.co.uk
+ Submission Date: 07-05-2020
+ Selected Module's: [CTEC3110 : Secure Web Application Development, CTEC3451 : Development Project <Compulsory>, CTEC3605 : Multi-service Networks 1, CTEC3902 : Rigorous Systems <Compulsory>, CTEC3904 : Functional Software Development, CTEC3905 : Front-End Web Development, IMAT3423 : Systems Building: Methods <Compulsory>]
+ Reserved Module's: [CTEC3410 : Web Application Penetration Testing, CTEC3606 : Multi-service Networks 2, CTEC3906 : Interaction Design, IMAT3406 : Fuzzy Logic and Knowledge Based Systems]
