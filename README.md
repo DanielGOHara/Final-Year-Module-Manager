@@ -1,2 +1,5 @@
 # Obj-Ori-Dev-Assignment_Project
-Second Year Object Oriented Development Assignment Project - First | 92%
+Second Year Object Oriented Development Assignment Project (Java, JavaFX) - First | 92%
+
+Using solely Java and JavaFX created a Java application which reads course and module information from a text file, it then allows a user to input student information which is checked using a mix of vanilla and regex methods. The user is then able to select a variety of modules for their chosen course with mandatory ones already being selected and not removable. They are then taken to the next page where the user can choose reserve modules with the application consistently ensuring enough are selected but not going over the credit count, once finished they are taken to the final page where they can double check their information and save the data to a text file. Extra features included being able to save the state of the application to a .dat file allowing users to pickup where they left off, as well as active use of observable lists to ensure a reserved module does not still show up in the selections pane. 
+
